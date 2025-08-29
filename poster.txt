@@ -88,7 +88,8 @@
 
       document.getElementById("infoText").textContent = info[type];
     }
-  
+  </script>
 </body>
 </html>
+
 
